@@ -24,5 +24,7 @@
 ## Steps
 - Create React App
 - Configured TailwindCSS refer the tailwind website
-
+- Header
+- Login Form
+- Signup Form 
 
