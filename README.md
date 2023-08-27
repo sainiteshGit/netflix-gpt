@@ -28,3 +28,5 @@
 - Login Form
 - Signup Form 
 
+##Form Validations
+- Explore formik
