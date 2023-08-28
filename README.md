@@ -25,8 +25,14 @@
 - Create React App
 - Configured TailwindCSS refer the tailwind website
 - Header
+- Routing of App
 - Login Form
 - Signup Form 
+- Form Validation
+- useRef hook
+- Firebase Setup
+- Deploying our app to production
+- Create SignUp User Account
 
 ##Form Validations
 - Explore formik
