@@ -37,7 +37,7 @@
 - Created Redux Store with userSlice
 - Implemented Signpoout
 - Update Profile
-Fetch from TMDB Movies
+-Fetch from TMDB Movies
 
 
 ##Form Validations
