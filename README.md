@@ -35,6 +35,10 @@
 - Create SignUp User Account
 - Implement Sign In User API
 - Created Redux Store with userSlice
+- Implemented Signpoout
+- Update Profile
+Fetch from TMDB Movies
+
 
 ##Form Validations
 - Explore formik
