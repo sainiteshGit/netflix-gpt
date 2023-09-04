@@ -41,6 +41,14 @@
 - Bugfix: if the user is not logged in Redirect /browser to Login page and vice-versa
 - Unsubscribed to the onAuthStateChanged callback
 - Register TMDB API & create an app
+- Custom Hook for Now Playing Movies
+- Create movieSlice
+- Update Store with movies data
+- Planning for MainCOtainer & secondary container
+- Fetch data for trailer video
+- Update Store with trailer video data 
+- Embedded the Youtube video and make it autoplay and mute
+- Tailwind Classes to make maincontainer look awesome
 
 ##Form Validations
 - Explore formik
