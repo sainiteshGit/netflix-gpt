@@ -49,6 +49,12 @@
 - Update Store with trailer video data 
 - Embedded the Youtube video and make it autoplay and mute
 - Tailwind Classes to make maincontainer look awesome
+-Secondary COntainer
+- Movie  List
+- Movie Card
+- TMDB Image CDN URL
+- Popular Moves and 
+- Now Playing Movies
 
 ##Form Validations
 - Explore formik
