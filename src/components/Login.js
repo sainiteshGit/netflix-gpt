@@ -5,8 +5,7 @@ import { createUserWithEmailAndPassword,signInWithEmailAndPassword,updateProfile
 import { auth } from "../utils/firebase";
 import { useDispatch } from "react-redux";
 import { addUser } from "../utils/userSlice";
-import {USER_AVATAR} from "../utils/constants";
-import { BG_URL } from "../utils/constants";
+import {USER_AVATAR,BG_URL} from "../utils/constants";
 
 const Login = () => {
     const[isSignInForm, setIsSignInForm] = useState(true); 
