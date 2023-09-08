@@ -56,6 +56,7 @@
 - Popular Moves and 
 - Now Playing Movies
 - GPT Search Feature
+- Multi-language Feature
 
 
 ##Form Validations
