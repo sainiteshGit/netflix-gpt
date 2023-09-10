@@ -9,7 +9,7 @@ export const API_OPTIONS = {
   headers: {
     accept: "application/json",
     Authorization:
-      "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhMjU2OGVmOWI4ZmE5Y2E1MTNhZTExZmExYTJlZGE5MyIsInN1YiI6IjY0ZjE0NzUyOTdhNGU2MDEzODk2MTA1OSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Tr_SE1fLFyEHiId30y3FcTd9yHK3DRiLcjeZkeXPsLw",
+      "Bearer "+process.env.REACT_APP_TMDB_KEY,
   },
 };
 export const IMG_CDN_URL = "https://image.tmdb.org/t/p/w780/";
@@ -23,4 +23,4 @@ export const SUPPORTED_LANGUAGES = [
   { identifier: "spanish", name: "Spanish" },
 ];
 
-export const OPENAI_KEY="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";
+export const OPENAI_KEY=process.env.REACT_APP_OPENAI_KEY;
