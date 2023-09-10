@@ -57,6 +57,7 @@
 - Now Playing Movies
 - GPT Search Feature
 - Multi-language Feature
+- Movie Suggestions based on the search input
 
 
 ##Form Validations
