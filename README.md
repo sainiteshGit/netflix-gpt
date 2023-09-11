@@ -58,6 +58,15 @@
 - GPT Search Feature
 - Multi-language Feature
 - Movie Suggestions based on the search input
+- get OpenAI API Key
+- GPT Search API Call
+- fetch gpt movie suggestions
+- created gptClice
+- Reused Movie List components to make movie suggestion container
+- Memoization
+- Added . env file
+- Adding .env file to gitignore
+- Made website responsive
 
 
 ##Form Validations
